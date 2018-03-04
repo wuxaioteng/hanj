@@ -1,0 +1,166 @@
+/*
+* @Author: zxzxw
+* @Date:   2018-03-01 08:37:19
+* @Last Modified by:   zxzxw
+* @Last Modified time: 2018-03-01 15:45:27
+*/
+@import "base.css";
+header{
+    width: 3.75rem;
+    height: 0.4rem;
+    background: #336699;
+    margin:0 auto;
+    position: relative;
+}
+#mobile{
+    position: absolute;
+    background: url(../img/ap01.png)center no-repeat;
+    background-position: 0px 0px;
+    height: 0.29rem;
+    width: 0.29rem;
+    overflow: hidden;
+    cursor: pointer;
+    float: left;
+    top: 0.04rem;
+    left: 0.05rem;
+}
+header a{
+    width: 0.7rem;
+    height: 0.3rem;
+    padding: 0 0.1rem;
+    font-size: 0.14rem;
+    color: #fff;
+    float: right;
+    margin-top: 0.1rem;
+}
+.kai{
+	width: 100%;
+	height:6.44rem ;
+	/* background: red; */
+	padding: 10px 5px;
+}
+.lu{
+	width: 100%;
+	height: 0.48rem;
+	background: white;
+	margin: 0.2rem 0;
+    font-size: 1.6em;
+    line-height: 0.24rem;
+}
+.ru{
+	width: 1rem;
+	height: 0.24rem;
+	background: white;
+	font-size: 0.14rem;
+	color: black;
+	font-weight: 800;
+	float: left;
+	text-align: center;
+
+}
+.xin{
+	width: 1.2rem;
+	height: 0.24rem;
+	background: white;
+	font-size: 0.14rem;
+	color: black;
+	float: left;
+	text-align: center;
+}
+.yang{
+	width: 0.62rem;
+	height: 0.24rem;
+	background: white;
+	font-size: 0.14rem;
+	color: blue;
+	float: left;
+	/* line-height: 0.19rem; */
+	text-align: center;
+	margin-right: 0.15rem;
+}
+.yang1{
+	width: 0.62rem;
+	height: 0.24rem;
+	background: white;
+	font-size: 0.14rem;
+	color: blue;
+	float: left;
+	text-align: center;
+	padding-left: 0.1rem;
+}
+.xuan{
+	width: 100%;
+	height: 0.72rem;
+	background: white;
+	margin: 0.2rem 0;
+	font-size: 0.16rem;
+	color: black;
+	/* line-height: 0.72rem; */
+}
+input{
+	margin: 0 10px;
+	font-family: Verdana,Arial,sans-serif,\5b8b\4f53;
+    font-weight: normal;
+    font-size: 1em;
+}
+.ze{
+	width: 3.15rem;
+	height: .19rem;
+	background: white;
+	font-size: 0.14rem;
+	color: black;
+	cursor: default;
+}
+.shi{
+	width: 100%;
+	height: 1.11rem;
+	background: white;
+	margin: 15px 0 15px 0;
+	/* line-height: 1.11rem; */
+}
+.da{
+	width:1.12rem;
+	height: 0.48rem;
+background: #E49958;
+	font-size: .18rem;
+	color: white;
+	    text-align: center;
+	    line-height: 0.48rem;
+	        border-radius: 0.2em;
+	        font-weight: 600;
+}
+.zhong{
+	width: 100%;
+	height: 2.4rem;
+	background: white;
+	margin: 20px 0;
+}
+.shuo{
+	font-size: 0.12rem;
+	    color: #a0a0a0;
+}
+table{
+	width: 100%;
+	height: 2.24rem;
+	display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tbody{
+	display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.bar{
+	width: 100%;
+	height: 0.35rem;
+	font-size: 0.12rem;
+	    color: #a0a0a0;
+}
+.en{
+	width: 3.4rem;
+	/* height: 0.35rem; */
+	/* background: red; */
+	display: inline-block;
+}
